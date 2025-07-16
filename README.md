@@ -1,4 +1,4 @@
-# Password Manager
+# Password Manager it
 
 Semplice password manager sviluppato con HTML, CSS, PHP e SQL.
 
@@ -20,7 +20,7 @@ Semplice password manager sviluppato con HTML, CSS, PHP e SQL.
 Non pensato per ambienti di produzione.
 
 
-# Password Manager
+# Password Manager en
 
 A simple password manager developed using HTML, CSS, PHP and SQL
 
