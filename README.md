@@ -5,6 +5,7 @@ Semplice password manager sviluppato con HTML, CSS, PHP e SQL.
 ## Funzionalità
 
 - Aggiunta password
+- generatore randomico di password
 - Visualizzazione password salvate
 - Salvataggio via database
 
@@ -27,6 +28,7 @@ A simple password manager developed using HTML, CSS, PHP and SQL
 ## Features
 
 - Add new passwords
+- random password generator
 - View saved passwords
 - DataBase storage(SQL)
 
