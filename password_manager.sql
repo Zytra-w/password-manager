@@ -51,9 +51,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `password`) VALUES
-(1, '1234', '$2y$10$gXlavAPKK.PFy0j.G69ZluLbam5983BxFm580KEg0jFGPjjMl09Ve'),
-(2, 'Rashid', '$2y$10$oopTBKPrMzAbnpCy5ZcGy.JV8bMjfaYQ265b7YI99gYQ4iUitMmmm');
 
 --
 -- Indexes for dumped tables
