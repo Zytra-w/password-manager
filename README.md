@@ -7,12 +7,13 @@ Semplice password manager sviluppato con HTML, CSS, PHP e SQL.
 - Aggiunta password
 - generatore randomico di password
 - Visualizzazione password salvate
-- Salvataggio via database
+- Salvataggio via database(SQL)
 
-## Tecnologie
+## Linguaggi di programmazione usati
 
 - HTML
 - CSS
+- JS
 - PHP
 - SQL
 
@@ -32,10 +33,11 @@ A simple password manager developed using HTML, CSS, PHP and SQL
 - View saved passwords
 - DataBase storage(SQL)
 
-## Technologies
+## Programming Languages
 
 - HTML  
-- CSS  
+- CSS
+- JS
 - PHP
 - SQL 
 
